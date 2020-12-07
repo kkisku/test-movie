@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kkisku/test-movie/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/kkisku/test-movie/static/js/main.17967582.chunk.js",
+    "main.js.map": "/kkisku/test-movie/static/js/main.17967582.chunk.js.map",
+    "runtime-main.js": "/kkisku/test-movie/static/js/runtime-main.f5ed8ad8.js",
+    "runtime-main.js.map": "/kkisku/test-movie/static/js/runtime-main.f5ed8ad8.js.map",
+    "static/js/2.0337256a.chunk.js": "/kkisku/test-movie/static/js/2.0337256a.chunk.js",
+    "static/js/2.0337256a.chunk.js.map": "/kkisku/test-movie/static/js/2.0337256a.chunk.js.map",
+    "static/js/3.0a7f87e0.chunk.js": "/kkisku/test-movie/static/js/3.0a7f87e0.chunk.js",
+    "static/js/3.0a7f87e0.chunk.js.map": "/kkisku/test-movie/static/js/3.0a7f87e0.chunk.js.map",
+    "index.html": "/kkisku/test-movie/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/kkisku/test-movie/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0337256a.chunk.js.LICENSE.txt": "/kkisku/test-movie/static/js/2.0337256a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kkisku/test-movie/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ed8ad8.js",
+    "static/js/2.0337256a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.17967582.chunk.js"
+  ]
+}
